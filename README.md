@@ -27,9 +27,9 @@ The difference between my mower and any other commercially available mowers is t
  ### Built With
 
 - [Raspberry Pi (Brain)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
-- [ROS](https://vuejs.org)
-- [Python](https://angular.io)
-- [HTML](https://svelte.dev)
+- [ROS](https://www.ros.org/)
+- [Python](https://www.python.org/)
+- [HTML](https://www.w3.org/html/)
  ## Roadmap
 
 - [ ] Finish Bill-Of-Materials
