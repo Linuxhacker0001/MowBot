@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<a href="https://github.com/Linuxhacker0001/MowBot/">
 <img src="https://i.imgur.com/5Xa40IZ.png" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">MowBot</h3>
@@ -20,8 +20,7 @@ An Open-Source DIY smart mowing robot powered by ROS
 My goal is to create a mowing robot that mows my lawn without any human interaction.
 
 The difference between my mower and any other commercially available mowers is that mine is actually **smart**; it doesn't roam around randomly instead it follows an optimized route, it checks if it's about to rain and acts accordingly, it doesn't need those annoying ugly perimeter cables...
-
-
+<br/>
  ### Built With
 
 - [Raspberry Pi (Brain)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
