@@ -22,8 +22,6 @@ My goal is to create a mowing robot that mows my lawn without any human interact
 The difference between my mower and any other commercially available mowers is that mine is actually **smart**; it doesn't roam around randomly instead it follows an optimized route, it checks if it's about to rain and acts accordingly, it doesn't need those annoying ugly perimeter cables...
 
 
-.
-
  ### Built With
 
 - [Raspberry Pi (Brain)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
